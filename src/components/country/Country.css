@@ -1,0 +1,23 @@
+.country{
+    margin: 10px;
+    border-radius: 8px;
+    border: 2px solid rgb(185, 20, 20);
+    padding: 10px;
+    text-align: center;
+}
+
+.country img {
+    width: 100%;
+    height: 200px;
+    object-fit: fill;
+}
+
+.country .visited {
+    background: #23ad3a;
+    color:#fff;
+}
+
+.country .going {
+    background: #2321b8;
+    color:#fff;
+}
